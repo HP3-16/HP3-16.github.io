@@ -9,7 +9,9 @@ I'm a young tech enthusiast. Currently I study at a local university and enjoy m
 💻 C,C++,Java,Python
 
 - 🔭 I’m currently working on C++ 
+
 - 🌱 I’m currently learning C++,Python 
+
 - ⚡ Fun fact: Avoid red lights by driving at 18,34,72,984.303 Km/h. This velocity will blue-shift them enough for red to appear green. But it will reduce your life-span by 100%. 
 
 
